@@ -91,3 +91,39 @@ insert into filme values('f6', 'Código de Violência', 1997, 10000000, 15);
 insert into filme values('f7', 'Quando o Amor Acontece', 1998, 5000000, 12);
 insert into filme values('f8', 'A Vingança de Bette', 1998, 10000000, 9);
 insert into filme values('f9', 'Blade, o Caçador de Vampiros' , 1998 ,100000000 ,18);
+
+insert into personagem values('f1', 'a1', 'Mary', 300000);
+insert into personagem values('f10', 'a10', 'Columbo', 3000000);
+insert into personagem values('f11', 'a11', 'Johnny', 800000);
+insert into personagem values('f11', 'a12', 'Holly', 1000000);
+insert into personagem values('f12', 'a13', 'Diego', 5000000);
+insert into personagem values('f12', 'a14', 'Pancho', 8000000);
+insert into personagem values('f13', 'a16', 'Roger', 4000000);
+insert into personagem values('f13', 'a20', 'Mary', 5000000);
+insert into personagem values('f14', 'a15', 'Roberts', 10000000);
+insert into personagem values('f14', 'a16', 'Edward', 2000000);
+insert into personagem values('f15', 'a17', 'Truman', 12000000);
+insert into personagem values('f16', 'a17', 'Charade', 5000000);
+insert into personagem values('f16', 'a18', 'Betty', 7000000);
+insert into personagem values('f16', 'a19', 'Bruce', 8000000);
+insert into personagem values('f17', 'a14', 'Bobby', 4000000);
+insert into personagem values ('f17', 'a15', 'Bill', 6000000);
+insert into personagem values('f18', 'a17', 'Mascara', 10000000);
+insert into personagem values('f18', 'a21', 'Sammy', 2000000);
+insert into personagem values('f19', 'a10', 'Molina', 2000000);
+insert into personagem values('f19', 'a5', 'Aranha', 80000);
+insert into personagem values('f1', 'a1', 'Sandy', 50000);
+insert into personagem values('f20', 'a11', 'George', 14000000);
+insert into personagem values('f20', 'a18', 'Mary', 5000000);
+insert into personagem values('f21', 'a21', 'Lola', 1000000);
+insert into personagem values('f22', 'a8', 'Chaplin', 3000000);
+insert into personagem values('f23', 'a11', 'Bruce', 10000000);
+insert into personagem values('f24', 'a1', 'Annie', 18000000);
+insert into personagem values('f25', 'a9', 'James', 14000000);
+insert into personagem values('f26', 'a15', 'Forest', 20000000);
+insert into personagem values('f3', 'a2', 'John', 50000);
+insert into personagem values('f4', 'a3', 'Mary', 1000000);
+insert into personagem values('f4', 'a4', 'Tootsie', 2000000);
+
+
+
